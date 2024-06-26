@@ -1,4 +1,4 @@
-// Package steamsearch gets information about steam games from steam API
+// Package steamsearchgo queries game info from Steam
 package steamsearchgo
 
 import (
